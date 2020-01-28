@@ -7,7 +7,7 @@
 <title>Registration Form - DevOps Project</title>
 </head>
 <body>
-<h1>test test Registration Form - DevOps Project</h1>
+<h1>here you are Registration Form - DevOps Project</h1>
 <form action=https://www.geektime.co.il/ method="post">
 			<table style="with: 50%">
 				<tr>
